@@ -1,3 +1,5 @@
+import { apiKey } from './key.js';
+
 const container = document.querySelector('.container');
 const search = document.querySelector('.search-box button');
 const weatherBox = document.querySelector('.weather-box');
@@ -5,7 +7,7 @@ const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
 
 search.addEventListener('click', () => {
-    const APIKey = '805465a82ca497ee0414620972808789';
+    const APIKey = apiKey;
     const city = document.querySelector('.search-box input').value;
 
     if (city === '') {
