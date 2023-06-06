@@ -6,7 +6,7 @@ In this App, you can search for your City and it will show the weather
 
 ## Actors
 
-- [@SaMuCoder](hhttps://github.com/SaMuCoder)
+- [@SaMuCoder](https://github.com/SaMuCoder)
 
 ## Colors
 
