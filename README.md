@@ -8,6 +8,10 @@ In this App, you can search for your City and it will show the weather
 
 - [@SaMuCoder](https://github.com/SaMuCoder)
 
+## Live
+
+- [@Weather App](https://weather-app-samu-coder.vercel.app/)
+
 ## Colors
 
 | Cor               | Hexadecimal                                                |
